@@ -43,7 +43,7 @@ Muestra lo Mejor de atlixco
    
    <!--colocar icono app-->
    
-   <icon src="res/android/mdpi3.png"/>
+   <icon src="res/android/mdpi.png"/>
    
    </widget>
    
